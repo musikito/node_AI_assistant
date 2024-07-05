@@ -1,5 +1,5 @@
 # nodeJS AI assistant
-
+![Node and OpenAI](/openai-node-social.Bir0HwJF.png)
 ## Overview
 OpenAI Assistant is a Node.js-based project designed to integrate OpenAI's language models into various applications. This assistant can help with tasks ranging from answering questions and generating content to assisting with coding and more.
 
